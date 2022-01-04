@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495270929773",
+    "project_id": "prectice-jay-image-uploa-48b11",
+    "storage_bucket": "prectice-jay-image-uploa-48b11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495270929773:android:9fc42473d2de1591d0e664",
+        "android_client_info": {
+          "package_name": "com.example.prectice_jay_image_upload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495270929773-r076sju895ffp2225ivrthe1b0jgj56c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-dtLnBz_5IzKDiFqbtD-1V2nLd9PchEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495270929773-r076sju895ffp2225ivrthe1b0jgj56c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
